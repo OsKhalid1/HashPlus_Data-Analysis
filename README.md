@@ -6,7 +6,7 @@ This project analyzes sales data using Python and presents the results through a
 The main goal is to clean, explore, and analyze the dataset, then build a clear business dashboard that helps understand sales performance across countries, cities, months, and product categories.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](H-P-S.png)
 
 ## Tools Used
 - Python
